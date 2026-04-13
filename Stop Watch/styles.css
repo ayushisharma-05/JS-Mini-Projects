@@ -1,0 +1,35 @@
+* {
+    font-family: candara;
+}
+
+#outerdiv {
+    height: 300px;
+    width: 600px;
+    background-color: darkslategrey;
+    margin: auto;
+    color: whitesmoke;
+    /* display: flex;
+            align-items: center; */
+}
+
+#div1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+#div2 {
+    text-align: center;
+    font-size: 33px;
+}
+
+#div3 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+button {
+    font-size: 23px;
+    width: 150px;
+    margin-top: 30px;
+}
