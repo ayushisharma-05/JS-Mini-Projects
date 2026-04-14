@@ -1,0 +1,29 @@
+ #outerBox {
+     height: 500px;
+     width: 800px;
+     border: solid 2px black;
+     margin: auto;
+ }
+
+ #innerDiv1 {
+     height: 350px;
+     width: 800px;
+     border-bottom: solid 2px black;
+ }
+
+ #innerdiv2 {
+     height: 150px;
+     width: 198px;
+     border-right: solid 2px black;
+     float: left;
+ }
+
+ #biggerimg {
+     height: 350px;
+     width: 800px;
+ }
+
+ #smallerimg {
+     height: 148px;
+     width: 198px
+ }
